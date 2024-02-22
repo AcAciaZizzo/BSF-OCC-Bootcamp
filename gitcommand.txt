@@ -1,0 +1,3 @@
+git status - show 
+git log - see commit history
+git log --online - shortens commit history
